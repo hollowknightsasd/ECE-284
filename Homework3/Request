@@ -1,0 +1,11 @@
+(1-4) -> 10 pts
+
+#  1. train resnet20 and vgg16 to achieve >90% accuracy 
+#  2. save your trained model in the result folder 
+#  3. Restart your jupyter notebook by "Kernel - Restart & Clear Output"
+#  4. Load your saved model for vgg16 and validate to see the accuracy
+
+(5-7) -> 20 pts
+#  5. such as the last part of "[W2S2_example2]_CNN_for_MNIST.ipynb", prehook the input layers of all the conv layers.
+#  6. from the first prehooked input, compute to get the second prehooked input. 
+#  7. Compare your computed second input vs. the prehooked second input.
