@@ -1,0 +1,1 @@
+Resnet and vgg data are in data file, also with the compile filelist. 
