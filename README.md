@@ -1,2 +1,2 @@
 # ECE-284
-Course material and homework
+Course material, project and homework
